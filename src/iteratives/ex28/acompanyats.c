@@ -1,4 +1,5 @@
 #include <stdbool.h>
+#include "acompanyats.h"
 
 // Retorna true si totes les xifres de n apareixen en blocs
 // d'almenys dues xifres consecutives.

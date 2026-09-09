@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include "acompanyats.h"
 
-bool digits_acompanyats(int n);
 
 int main(void) {
 

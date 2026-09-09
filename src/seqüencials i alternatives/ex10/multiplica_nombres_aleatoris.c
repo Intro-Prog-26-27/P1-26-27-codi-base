@@ -1,4 +1,5 @@
 #include <stdbool.h>
+#include "multiplica_nombres_aleatoris.h"
 
 // Aquest és el nostre "àrbitre". 100% testejable.
 bool comprova_multiplicacio(int num1, int num2, int resposta_usuari) {

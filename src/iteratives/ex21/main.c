@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include "escacs.h"
 
-bool es_casella_blanca(int fila, int columna);
 
 int main() {
     return 0;

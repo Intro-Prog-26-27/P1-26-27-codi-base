@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
+#include "ultim_digit.h"
 
-int calcular_ultim_digit(int n);
 
 int main(void) {
      assert(calcular_ultim_digit(3)==3);

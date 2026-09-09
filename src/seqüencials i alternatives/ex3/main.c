@@ -1,7 +1,6 @@
 #include <stdio.h>
+#include "edat.h"
 
-int calcular_any_naixement(int edat_actual);
-int calcular_any_doble_edat(int edat_actual);
 
 int main() {
 

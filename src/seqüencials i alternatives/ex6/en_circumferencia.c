@@ -1,4 +1,5 @@
 #include <stdbool.h>
+#include "en_circumferencia.h"
 
 // Retorna true si està dins (o al límit), false si està fora.
 // Com que només volem saber si el punt és dins de la circumferència,

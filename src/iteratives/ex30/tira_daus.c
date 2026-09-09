@@ -1,4 +1,5 @@
 #include <stdbool.h>
+#include "tira_daus.h"
 
 // L'ordinador demana daus si la diferència amb 13 és major que 3
 bool ordinador_vol_dau(int punts_actuals) {

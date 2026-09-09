@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
+#include "mcd.h"
 
-int mcd(int a, int b);
 
 int main(void) {
 

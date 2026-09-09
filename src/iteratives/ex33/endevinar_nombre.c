@@ -1,4 +1,5 @@
 #include <stdbool.h>
+#include "endevinar_nombre.h"
 
 bool es_rang_valid(int num) {
   //TODO Esborrar aquesta línia quan comencis a implementar

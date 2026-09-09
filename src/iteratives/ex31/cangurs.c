@@ -1,4 +1,5 @@
 /* 31. Dos cangurs avancen simultàniament fent salts sobre una línia recta.
+#include "cangurs.h"
 El primer cangur parteix de la posició x1 i fa salts de longitud s1.
 El segon cangur parteix de la posició x2 i fa salts de longitud s2.
 

@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "maxof3_amb2if.h"
 
-int max_of3_amb2if(int a, int b, int c);
 
 int main() {
     

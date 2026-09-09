@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "intensitat.h"
 
-int calcular_intensitat(int fila, int columna, int centre);
 
 int main(void) {
 

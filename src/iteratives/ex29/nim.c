@@ -1,4 +1,5 @@
 #include <stdbool.h>
+#include "nim.h"
 
 // Valida si la jugada compleix les regles: entre 1 i 3, i no més de les que queden
 bool moviment_valid(int agafades, int restants) {

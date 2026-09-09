@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "menu_migdia.h"
 
-double calcular_preu_menu(int opcio);
 
 int main(void) {
     

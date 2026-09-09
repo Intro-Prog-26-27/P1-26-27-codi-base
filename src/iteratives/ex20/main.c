@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "polinomi.h"
 
-double avaluar_polinomi(double a, double b, double c, double x);
 
 int main(void) {
 

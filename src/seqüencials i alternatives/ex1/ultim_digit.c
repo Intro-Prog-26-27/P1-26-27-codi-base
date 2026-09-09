@@ -1,5 +1,6 @@
 /* src/UltimDigit.c */
 #include <stdlib.h> // Per abs()
+#include "ultim_digit.h"
 
 
 // Funció que retorna l'últim dígit (gestionant negatius)

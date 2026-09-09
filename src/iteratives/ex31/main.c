@@ -2,8 +2,8 @@
 #include <string.h>
 #include <stdbool.h>
 #include <assert.h>
+#include "cangurs.h"
 
-bool es_troben(int x1, int s1, int x2, int s2);
 
 int main(void) {
 

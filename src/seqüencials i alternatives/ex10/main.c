@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdbool.h>
+#include "multiplica_nombres_aleatoris.h"
 
-bool comprova_multiplicacio(int num1, int num2, int resposta_usuari);
 
 int main() {
     return 0;

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include "suma_interval.h"
 
-int sumar_interval(int inici, int fi);
 
 int main() {
     return 0;
